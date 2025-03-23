@@ -1,49 +1,38 @@
-<h1 style="font-size: 36px; color: #ff4c4c;">🚀 Hey, I'm Astro!</h1>
+# Hello, World! 👋 I'm Astro (AstroFluxi)
 
-<h2 style="font-size: 28px; color: #4c8cff;">🌟 My Projects:</h2>
-<div style="font-size: 20px; color: #ffffff; background-color: #3a3a3a; padding: 10px; border-radius: 8px;">
-    <ul>
-        <li>🔥 <b>Lumio Studios (CEO)</b> – Launched in January 2025</li>
-        <li>🚀 <b>xxx.net (Project Manager)</b> – Running since March 2025</li>
-    </ul>
-</div>
+Ever since I was 14, I’ve developed a deep passion for coding. From frontend to backend, I love exploring the full spectrum of software development. Over the years, I’ve honed my skills in various programming languages and tools, always eager to take on new challenges and keep learning.
 
-<h2 style="font-size: 28px; color: #4c8cff;">🔧 My Plugins:</h2>
-<div style="font-size: 20px; color: #ffffff; background-color: #3a3a3a; padding: 10px; border-radius: 8px;">
-    <ul>
-        <li>⏳ ??? (Coming Soon™)</li>
-    </ul>
-</div>
+## 🚀 About Me
+- 💻 I have experience in both frontend and backend development, proficient in PHP, Ruby, Python, C, C++ and Java
+- 💬 Ask me about Full-Stack Development, and my experiences.
+- ⚡ Fun fact: I love to entertain friends of mine and also to teach them things
+- 📫 How to reach me: Feel free to contact me on Discord at Astrofluxi
 
-<h2 style="font-size: 28px; color: #4c8cff;">💻 My Skills:</h2>
+## 🔧 Technologies & Tools
 
-<!-- Strong OOP Languages -->
-<h3 style="color: #ffcc00;">🦾 Strong OOP Languages:</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
+### Programming Languages:
+<div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="50" alt="C#" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50" alt="C++" />
-</div>
-
-<!-- Hybrid: OOP & Scripting -->
-<h3 style="color: #66ff66;">🔀 Hybrid: OOP & Scripting</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" height="50" alt="Ruby" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" alt="JS" />
-</div>
-
-<!-- Scripting & Markup Languages -->
-<h3 style="color: #ff6666;">📜 Scripting & Markup Languages:</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" alt="SQL" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" alt="HTML" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s" height="50" alt="CSS" />
 </div>
 
-<h2 style="font-size: 28px; color: #4c8cff;">🌐 Contact:</h2>
-<div style="font-size: 20px; color: #ffffff; background-color: #3a3a3a; padding: 10px; border-radius: 8px;">
-    <ul>
-        <li>💬 Discord: <b>astrofluxi</b></li>
-    </ul>
+### Tools:
+<div style="display: flex; gap: 20px; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/2048px-JetBrains_beam_logo.svg.png" height="50" alt="JetBrains" />
+    <img src="https://img.icons8.com/color/200/jetbrains-toolbox.png" height="50" alt="JetBrains Toolbox" />
+    <img src="https://e-rpd.ro/999-medium_default/intellij-idea-ultimate-commercial-annual-subscription.jpg" height="50" alt="JetBrains IntelliJ IDEA" />
+    <img src="https://www.trustradius.com/product-logos/RZ/aP/79GR6REQ08Q2-180x180.PNG" height="50" alt="JetBrains PHPStorm" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" height="50" alt="JetBrains Rider" />
 </div>
+
+### 🌎 Let's connect
+Feel free to reach out if you're looking for a developer, have a question, or want to connect.
+
+[![Discord Badge](https://img.shields.io/badge/-Astrofluxi-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/astrofluxi)
