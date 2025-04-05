@@ -21,6 +21,7 @@ Ever since I was 14, I’ve developed a deep passion for coding. From frontend t
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" alt="SQL" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" alt="HTML" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s" height="50" alt="CSS" />
+    <img src="https://cdn4.iconfinder.com/data/icons/flat-file-types-1-1/300/asm-512.png" height="50" alt="assembly" />
 </div>
 
 ### Tools:
