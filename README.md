@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Astro (AstroFluxi)
+# Hello, World! 👋 I'm Astro or Davin
 
 Ever since I was 14, I’ve developed a deep passion for coding. From frontend to backend, I love exploring the full spectrum of software development. Over the years, I’ve honed my skills in various programming languages and tools, always eager to take on new challenges and keep learning.
 
