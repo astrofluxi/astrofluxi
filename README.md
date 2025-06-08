@@ -9,8 +9,7 @@ Ever since I was 14, I’ve developed a deep passion for coding. From frontend t
 - 📫 How to reach me: Feel free to contact me on Discord at Astrofluxi
 
 ## 🔧 Technologies & Tools
-
-### Programming Languages:
+Programming Languages:
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="50" alt="C#" />
@@ -31,8 +30,3 @@ Ever since I was 14, I’ve developed a deep passion for coding. From frontend t
     <img src="https://www.trustradius.com/product-logos/RZ/aP/79GR6REQ08Q2-180x180.PNG" height="50" alt="JetBrains PHPStorm" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" height="50" alt="JetBrains Rider" />
 </div>
-
-### 🌎 Let's connect
-Feel free to reach out if you're looking for a developer, have a question, or want to connect.
-
-[![Discord Badge](https://img.shields.io/badge/-Astrofluxi-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/astrofluxi)
