@@ -9,7 +9,6 @@ Ever since I was 14, I’ve developed a deep passion for coding. From frontend t
 - 📫 How to reach me: Feel free to contact me on Discord at Astrofluxi
 
 ## 🔧 Technologies & Tools
-Programming Languages:
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="50" alt="C#" />
@@ -22,7 +21,6 @@ Programming Languages:
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s" height="50" alt="CSS" />
 </div>
 
-### Tools:
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/2048px-JetBrains_beam_logo.svg.png" height="50" alt="JetBrains" />
     <img src="https://img.icons8.com/color/200/jetbrains-toolbox.png" height="50" alt="JetBrains Toolbox" />
