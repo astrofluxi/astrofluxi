@@ -40,7 +40,7 @@ Now, at 22, I've built a wide range of systems—spanning from small projects to
 <img src="https://avatars.githubusercontent.com/u/41710604?s=200&v=4" height="50" alt="Velocity" />
 <img src="https://avatars.githubusercontent.com/u/22548559?v=4" height="50" alt="PocketMine" />
 <img src="https://avatars.githubusercontent.com/u/99014792?s=200&v=4" height="50" alt="PowerNukkitX" />
-<img src="https://cloudnetservice.eu/img/logo.svg" height="50" alt="CloudNET v4" />
+<img src="https://pbs.twimg.com/profile_images/1868313121661595648/gxiHrtpM_400x400.jpg" height="50" alt="SimpleCloud" />
 <img src="https://hangarcdn.papermc.io/avatars/project/14.webp?v=1" height="50" alt="GeyserMC" />
 
     
