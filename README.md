@@ -1,12 +1,19 @@
-# Hello, World! 👋 I'm Astro or Davin
+# Hello, World! 👋 I'm Astro
 
-Ever since I was 14, I’ve developed a deep passion for coding. From frontend to backend, I love exploring the full spectrum of software development. Over the years, I’ve honed my skills in various programming languages and tools, always eager to take on new challenges and keep learning.
+When I was 14, I truly began exploring programming. Like many others, I started with HTML and CSS, which some might not consider "real" programming. Still, it's where I began, and it served as my entry point into the world of coding. 
 
-## 🚀 About Me
-- 💻 I have experience in both frontend and backend development, proficient in PHP, Ruby, Python, C, C++ and Java
-- 💬 Ask me about Full-Stack Development, and my experiences.
-- ⚡ Fun fact: I love to entertain friends of mine and also to teach them things
-- 📫 How to reach me: Feel free to contact me on Discord at Astrofluxi
+By the time I turned 15, I ventured into PHP and Pocketmine. However, my attempts at developing plugins during that phase yielded little to no success. This setback pushed me to explore Java and Spigot, and surprisingly, things started to improve significantly. I quickly grasped the language and created my first small programs, which eventually led me deeper into Spigot development. From there, everything clicked, and my progress truly accelerated.
+
+Now, at 22, I've built a wide range of systems—spanning from small projects to more complex solutions. One thing I've consistently learned throughout this journey is that programming always offers new knowledge and challenges, and even today, there's always something fresh to discover.
+
+## 🚀 About Me  
+- 💻 With a strong foundation in both frontend and backend development, I pride myself on being proficient in a variety of programming languages, including PHP, Ruby, Python, C, C++, and Java. My versatile skill set allows me to navigate diverse technological landscapes with confidence and adaptability.
+
+- 💬 I'm always enthusiastic about sharing my knowledge and experiences in Full-Stack Development, so if you have any questions or want insights into my journey, don't hesitate to reach out!
+
+- ⚡ A fun side to my personality is my love for entertaining my friends, whether through humor, creative activities, or simply good conversations. Beyond entertainment, I’m deeply passionate about teaching and guiding others in areas I'm knowledgeable about. Helping others understand and grow gives me immense satisfaction.
+
+- 📫 If you'd like to connect or discuss anything tech-related (or otherwise), the easiest way to reach me is through Discord at Astrofluxi. Don't be shy—I'd be thrilled to chat with you!  
 
 ## 🔧 Technologies & Tools
 <div style="display: flex; gap: 20px; align-items: center;">
