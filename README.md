@@ -28,4 +28,13 @@ Ever since I was 14, I’ve developed a deep passion for coding. From frontend t
     <img src="https://e-rpd.ro/999-medium_default/intellij-idea-ultimate-commercial-annual-subscription.jpg" height="50" alt="JetBrains IntelliJ IDEA" />
     <img src="https://www.trustradius.com/product-logos/RZ/aP/79GR6REQ08Q2-180x180.PNG" height="50" alt="JetBrains PHPStorm" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" height="50" alt="JetBrains Rider" />
+
+<img src="https://papermc.io/assets/logo/256x.png" height="50" alt="PaperMC" />
+<img src="https://avatars.githubusercontent.com/u/41710604?s=200&v=4" height="50" alt="Velocity" />
+<img src="https://avatars.githubusercontent.com/u/22548559?v=4" height="50" alt="PocketMine" />
+<img src="https://avatars.githubusercontent.com/u/99014792?s=200&v=4" height="50" alt="PowerNukkitX" />
+<img src="https://cloudnetservice.eu/img/logo.svg" height="50" alt="CloudNET v4" />
+<img src="https://hangarcdn.papermc.io/avatars/project/14.webp?v=1" height="50" alt="GeyserMC" />
+
+    
 </div>
