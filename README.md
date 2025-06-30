@@ -23,8 +23,9 @@ Now, at 22, I've built a wide range of systems—spanning from small projects to
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" height="50" alt="Ruby" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" height="50" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="50" alt="Lua" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" alt="JS" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" alt="SQL" />
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height="50" alt="MongoDB" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" alt="HTML" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="20" alt="TailwindCSS" />
 </div>
@@ -40,6 +41,7 @@ Now, at 22, I've built a wide range of systems—spanning from small projects to
 <img src="https://avatars.githubusercontent.com/u/41710604?s=200&v=4" height="50" alt="Velocity" />
 <img src="https://avatars.githubusercontent.com/u/22548559?v=4" height="50" alt="PocketMine" />
 <img src="https://avatars.githubusercontent.com/u/99014792?s=200&v=4" height="50" alt="PowerNukkitX" />
+<img src="https://avatars.githubusercontent.com/u/72519716?s=280&v=4" height="50" alt="WaterdogPE" />
 <img src="https://pbs.twimg.com/profile_images/1868313121661595648/gxiHrtpM_400x400.jpg" height="50" alt="SimpleCloud" />
 <img src="https://hangarcdn.papermc.io/avatars/project/14.webp?v=1" height="50" alt="GeyserMC" />
 
